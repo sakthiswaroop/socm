@@ -185,6 +185,7 @@ h3.sub-head {
   color: #424242;
   max-width: 75%;
   display: block;
+  text-align: justify;
 }
 .about_us .column-figure img {
   max-width: 100%;
